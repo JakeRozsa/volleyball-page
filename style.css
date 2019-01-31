@@ -1,0 +1,106 @@
+.background-color {
+  margin: 10px;
+    background-color: rgb(199, 199, 199);
+  background-image: radial-gradient(rgb(255, 255, 255), rgb(143, 143, 143));
+}
+body {
+  font-family: 'Poppins', sans-serif;
+}
+header {
+  padding-top: 25px;
+  margin-top: 25px;
+  border-top: 6px;
+  border-top-color: darkred;
+  border-top-style: solid;
+}
+.top-bar {
+  padding-top: 15px;
+}
+h1 {
+  size: 28px;
+font-family: 'Roboto Slab', serif;
+}
+h2 {
+  margin: 15px;
+}
+.buy-gear {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.gear-p {
+  margin: 10px;
+}
+.event.blocks {
+  width: 300px;
+  height: 300px;
+}
+.event-block-1 {
+  border-radius: 8px;
+  margin: 10px 0px;
+  border-color: white;
+  border-style: solid;
+  border-width: 8px;
+  background-color: white;
+}
+.event-block-2 {
+  border-radius: 8px;
+  margin: 10px 0px;
+  border-color: white;
+  border-style: solid;
+  border-width: 8px;
+  background-color: white;
+}
+.event-block-3 {
+  border-radius: 8px;
+  margin: 10px 0px;
+  border-color: white;
+  border-style: solid;
+  border-width: 8px;
+  background-color: white;
+}
+.event-block-4 {
+  border-radius: 8px;
+  margin: 10px 0px;
+  border-color: white;
+  border-style: solid;
+  border-width: 8px;
+  background-color: white;
+}
+.event-block-5 {
+  border-radius: 8px;
+  margin: 10px 0px;
+  border-color: white;
+  border-style: solid;
+  border-width: 8px;
+  background-color: white;
+}
+.event-block-6 {
+  border-radius: 8px;
+  margin: 10px 0px;
+  border-color: white;
+  border-style: solid;
+  border-width: 8px;
+  background-color: white;
+}
+.container {
+
+}
+.top-pic {
+  text-align: center;
+  padding: 20px 0px;
+}
+.white-card {
+  margin: 10px 0px;
+}
+.card-subtitle {
+  margin-top: 5px;
+}
+.card-symbol {
+  max-height: 10em; 
+}
+footer {
+  padding-top: 35px;
+  margin-bottom: 25px;
+  border-bottom: 6px;
+  border-bottom-color: darkred;
+  border-bottom-style: solid;
