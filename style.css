@@ -16,6 +16,11 @@ header {
 .top-bar {
   padding-top: 15px;
 }
+.btn-danger {
+  border-style: solid;
+  border: 2px;
+  border-color: black;
+}
 h1 {
   size: 28px;
 font-family: 'Roboto Slab', serif;
@@ -82,9 +87,6 @@ h2 {
   border-width: 8px;
   background-color: white;
 }
-.container {
-
-}
 .top-pic {
   text-align: center;
   padding: 20px 0px;
@@ -104,3 +106,5 @@ footer {
   border-bottom: 6px;
   border-bottom-color: darkred;
   border-bottom-style: solid;
+
+  
