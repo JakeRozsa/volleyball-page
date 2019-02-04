@@ -13,13 +13,12 @@ header {
   border-top-color: darkred;
   border-top-style: solid;
 }
-.btn-danger{
-  background-color: darkred;
-}
+
 .top-bar {
   padding-top: 15px;
 }
 .btn-danger {
+  background-color: darkred;
   border-style: solid;
   border: 2px;
   border-color: black;
